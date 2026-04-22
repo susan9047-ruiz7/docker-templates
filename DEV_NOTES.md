@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Removed unused variable declarations
 - Fixed minor edge case in input handling
 - Added healthcheck endpoint stub
+
+## 2026-04-22
+- Updated .gitignore to exclude build artifacts
